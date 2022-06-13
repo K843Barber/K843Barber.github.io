@@ -1,4 +1,4 @@
 # Spiking Neural Networks
 #### Sanja Karilanova | Kieran Barber
 
-- [SNNs](SNNs)
+- [SNNs](SNNs/README.md)
