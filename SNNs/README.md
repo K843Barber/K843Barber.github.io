@@ -1,4 +1,9 @@
 # Spiking Neural Networks
+
+## Previous Level
+
+= [SNNs](../README.md)
+
 ## Chapters
 
 - [notebooks/Chapter-0](notebooks/00_Intro.html)
